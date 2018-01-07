@@ -1,4 +1,5 @@
 # hello-world
 Initial Testing Repository
 
-Trying to advance my GitHub skills beyond 'git clone uri'.
+Trying to advance my GitHub skills beyond 'git clone uri'. Goober is goober.
+
